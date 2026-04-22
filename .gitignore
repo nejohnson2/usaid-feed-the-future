@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Office temp files
+~$*
+.~lock.*
+
+# Python (in case any scripts/notebooks are added)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Local working files
+/drafts/
+/scratch/
+/_private/
+
+# Large binaries not meant for git (use Git LFS if needed)
+# *.pdf
+# *.xlsx
