@@ -1,0 +1,340 @@
+Country,Region,Survey Type,Survey Name,Year(s),Organization,URL,Access
+Kenya,East Africa,DHS,Kenya DHS,2008-09,KNBS / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-301.cfm,Registration required
+Kenya,East Africa,DHS,Kenya DHS,2014,KNBS / ICF,https://dhsprogram.com/publications/publication-fr308-dhs-final-reports.cfm,Registration required
+Kenya,East Africa,DHS,Kenya DHS,2022,KNBS / ICF,https://dhsprogram.com/publications/publication-fr380-dhs-final-reports.cfm,Registration required
+Kenya,East Africa,MICS,Kenya MICS (subnational rounds),2007-2014,KNBS / UNICEF,https://mics.unicef.org/surveys,Application required
+Kenya,East Africa,HIES,Kenya Integrated Household Budget Survey (KIHBS),2005-06,KNBS,https://statistics.knbs.or.ke/nada/index.php/catalog/KIHBS,Application required
+Kenya,East Africa,HIES,Kenya Integrated Household Budget Survey (KIHBS),2015-16,KNBS,https://statistics.knbs.or.ke/nada/index.php/catalog/13,Application required
+Kenya,East Africa,HIES,Kenya Integrated Household Budget Survey (KIHBS),2025-26,KNBS,https://www.knbs.or.ke/2025-26-kenya-integrated-household-budget-survey-kihbs/,In progress
+Kenya,East Africa,Nutrition,Kenya National Micronutrient Survey (KNMS),2011,Ministry of Health / KNBS,http://www.nutritionhealth.or.ke/,Report public
+Kenya,East Africa,Nutrition,SMART County-Level Nutrition Surveys (ASAL),2008-ongoing,Ministry of Health / UNICEF / WFP,http://nutritionhealth.or.ke/reports-capacity-assessment-reports/smart-survey-reports/,Reports public
+Kenya,East Africa,Food Security,CFSVA,2016,WFP / KNBS,https://reliefweb.int/report/kenya/comprehensive-food-security-and-vulnerability-analysis-cfsva-kenya-2016,Report public
+Kenya,East Africa,Food Security,IPC Acute Food Insecurity,Ongoing since 2011,IPC partners,https://www.ipcinfo.org/ipcinfo-website/where-what/eastern-africa/en/,Public
+Kenya,East Africa,Agriculture,Kenya Census of Agriculture (Pilot),2024-25,KNBS,https://www.knbs.or.ke/reports/2024-25-kenya-census-of-agriculture-pilot-report/,Report public
+Kenya,East Africa,FTF ZOI,FTF Northern Kenya ZOI Baseline,2013,USAID,https://catalog.data.gov/dataset/feed-the-future-northern-kenya-zone-of-influence-survey-baseline,Public download
+Kenya,East Africa,FTF ZOI,FTF Kenya ZOI Interim,2015-16,USAID,https://www.feedthefuture.gov/resource/feed-the-future-kenya-zone-of-influence-interim-assessment-report/,Report public
+Kenya,East Africa,FTF ZOI,FTF Kenya ZOI Endline/Phase 2 Baseline,2018-19,USAID,https://pdf.usaid.gov/pdf_docs/PA00ZH96.pdf,Report public; data via DDL
+Ethiopia,East Africa,DHS,Ethiopia DHS,2005,CSA / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=65,Registration required
+Ethiopia,East Africa,DHS,Ethiopia DHS,2011,CSA / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=65,Registration required
+Ethiopia,East Africa,DHS,Ethiopia DHS,2016,CSA / ICF,https://dhsprogram.com/publications/publication-fr328-dhs-final-reports.cfm,Registration required
+Ethiopia,East Africa,DHS,Ethiopia Mini DHS,2019,EPHI / ICF,https://dhsprogram.com/publications/publication-FR363-DHS-Final-Reports.cfm,Registration required
+Ethiopia,East Africa,DHS,Ethiopia DHS,2024-25,ESS / ICF,https://dhsprogram.com/pubs/pdf/PR163/PR163.pdf,Key indicators published; full data forthcoming
+Ethiopia,East Africa,LSMS-ISA,Ethiopia Rural Socioeconomic Survey (ERSS) Wave 1,2011-12,CSA / World Bank,https://microdata.worldbank.org/index.php/catalog/lsms,Public download
+Ethiopia,East Africa,LSMS-ISA,Ethiopia Socioeconomic Survey (ESS) Wave 2,2013-14,CSA / World Bank,https://microdata.worldbank.org/index.php/catalog/2247,Public download
+Ethiopia,East Africa,LSMS-ISA,Ethiopia Socioeconomic Survey (ESS) Wave 3,2015-16,CSA / World Bank,https://microdata.worldbank.org/index.php/catalog/2783,Public download
+Ethiopia,East Africa,LSMS-ISA,Ethiopia Socioeconomic Survey (ESS) Wave 4,2018-19,CSA / World Bank,https://microdata.worldbank.org/index.php/catalog/3823,Public download
+Ethiopia,East Africa,LSMS-ISA,Ethiopia Socio-Economic Panel Survey (ESPS) Wave 5,2021-22,ESS / World Bank,https://microdata.worldbank.org/index.php/catalog/6161,Public download
+Ethiopia,East Africa,HIES,Household Income Consumption and Expenditure Survey (HICES),2004-05,CSA,https://catalog.ihsn.org/index.php/catalog/161,Application required
+Ethiopia,East Africa,HIES,Household Consumption Expenditure Survey (HCE),2010-11,CSA,https://catalog.ihsn.org/index.php/catalog/3123,Application required
+Ethiopia,East Africa,HIES,Household Consumption Expenditure Survey (HCE),2015-16,CSA,https://catalog.ihsn.org/catalog/9245,Application required
+Ethiopia,East Africa,Nutrition,National Food Consumption Survey (NFCS),2011,EPHI,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O5MOKD,Public download
+Ethiopia,East Africa,Nutrition,Ethiopian National Micronutrient Survey (ENMS),2015,EPHI,https://www.exemplars.health/-/media/files/egh/resources/stunting/ethiopia/ethiopian-national-micronutrient-survey-report.pdf,Report public
+Ethiopia,East Africa,Nutrition,National Food and Nutrition Strategy Baseline Survey,2021-23,EPHI / MoH,https://reliefweb.int/report/ethiopia/national-food-and-nutrition-strategy-baseline-survey-key-findings-preliminary-report,Report public
+Ethiopia,East Africa,Food Security,CFSVA,2014,CSA / WFP,https://reliefweb.int/report/ethiopia/ethiopia-comprehensive-food-security-and-vulnerability-analysis-2014,Report public
+Ethiopia,East Africa,Food Security,CFSVA,2019,CSA / WFP,https://reliefweb.int/report/ethiopia/ethiopia-comprehensive-food-security-and-vulnerability-analysis-cfsva-2019,Report public
+Ethiopia,East Africa,Food Security,IPC Acute Food Insecurity,Ongoing,IPC partners,https://www.ipcinfo.org/ipcinfo-website/where-what/eastern-africa/en/,Public
+Ethiopia,East Africa,Agriculture,Annual Agricultural Sample Survey (AgSS),Annual since 2005,CSA / ESS,https://ess.gov.et/agriculture/,Reports public; microdata by application
+Ethiopia,East Africa,FTF ZOI,FTF Ethiopia ZOI Baseline,2013,USAID,https://agrilinks.org/post/feed-future-data-resources,Data via DDL
+Ethiopia,East Africa,FTF ZOI,FTF Ethiopia ZOI Endline (Phase 1),2018,USAID,https://www.feedthefuture.gov/resource/feed-the-future-ethiopia-zone-of-influence-end-line-assessment-report-2018/,Report public
+Ethiopia,East Africa,FTF ZOI,FTF Ethiopia ZOI Phase 2 Baseline,2019-20,USAID,https://agrilinks.org/post/feed-future-zoi-survey-methods,Data via DDL
+Uganda,East Africa,DHS,Uganda DHS,2006,UBOS / ICF,https://dhsprogram.com/publications/publication-fr194-dhs-final-reports.cfm,Registration required
+Uganda,East Africa,DHS,Uganda DHS,2011,UBOS / ICF,https://dhsprogram.com/pubs/pdf/fr264/fr264.pdf,Registration required
+Uganda,East Africa,DHS,Uganda DHS,2016,UBOS / ICF,https://dhsprogram.com/publications/publication-fr333-dhs-final-reports.cfm,Registration required
+Uganda,East Africa,DHS,Uganda DHS,2022,UBOS / ICF,https://dhsprogram.com/,Registration required
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 1,2009-10,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/1001,Public download
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 2,2010-11,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/1001,Public download
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 3,2011-12,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/2059,Public download
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 4,2013-14,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/2663,Public download
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 5,2015-16,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/3460,Public download
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 7,2018-19,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/3795,Public download
+Uganda,East Africa,LSMS-ISA,Uganda National Panel Survey (UNPS) Wave 8,2019-20,UBOS / World Bank,https://microdata.worldbank.org/index.php/catalog/3902,Public download
+Uganda,East Africa,HIES,Uganda National Household Survey (UNHS),2005-06,UBOS,https://www.ubos.org/,Reports public; microdata by application
+Uganda,East Africa,HIES,Uganda National Household Survey (UNHS),2009-10,UBOS,https://www.ubos.org/,Reports public; microdata by application
+Uganda,East Africa,HIES,Uganda National Household Survey (UNHS),2012-13,UBOS,https://www.ubos.org/,Reports public; microdata by application
+Uganda,East Africa,HIES,Uganda National Household Survey (UNHS),2016-17,UBOS,https://www.ubos.org/,Reports public; microdata by application
+Uganda,East Africa,HIES,Uganda National Household Survey (UNHS),2019-20,UBOS,https://www.ubos.org/,Reports public; microdata by application
+Uganda,East Africa,HIES,Uganda National Household Survey (UNHS),2023-24,UBOS,https://www.ubos.org/uganda-national-household-survey-report-2023-2024-released/,Report public
+Uganda,East Africa,Food Security,CFSVA,2008-09,WFP / UBOS,https://reliefweb.int/report/uganda/uganda-comprehensive-food-security-and-vulnerability-analysis-apr-2009,Report public
+Uganda,East Africa,Food Security,CFSVA,2013,WFP / UBOS,https://documents.wfp.org/stellent/groups/public/documents/ena/wfp284395.pdf,Report public
+Uganda,East Africa,Food Security,IPC Acute Food Insecurity,Ongoing,IPC partners,https://www.ipcinfo.org/,Public
+Uganda,East Africa,Agriculture,Uganda Census of Agriculture (UCA),2008-09,UBOS / Ministry of Agriculture,https://www.ubos.org/,Report public
+Uganda,East Africa,Agriculture,Annual Agricultural Survey (AAS),2017-2022,UBOS / FAO,https://www.ubos.org/,Reports public
+Uganda,East Africa,FTF ZOI,FTF Uganda ZOI Baseline,2012,USAID,https://catalog.data.gov/dataset/feed-the-future-uganda-population-based-survey,Public download
+Uganda,East Africa,FTF ZOI,FTF Uganda ZOI Interim,2015,USAID,https://data.usaid.gov/,Public download
+Uganda,East Africa,FTF ZOI,FTF Uganda ZOI Endline/Phase 2 Baseline,2019,USAID,https://data.usaid.gov/,Data via DDL
+Rwanda,East Africa,DHS,Rwanda DHS,2005,NISR / ICF,https://dhsprogram.com/pubs/pdf/FR183/FR183.pdf,Registration required
+Rwanda,East Africa,DHS,Rwanda Interim DHS,2007-08,NISR / ICF,https://dhsprogram.com/pubs/pdf/fr215/fr215.pdf,Registration required
+Rwanda,East Africa,DHS,Rwanda DHS,2010,NISR / ICF,https://dhsprogram.com/,Registration required
+Rwanda,East Africa,DHS,Rwanda DHS,2014-15,NISR / ICF,https://dhsprogram.com/publications/publication-fr316-dhs-final-reports.cfm,Registration required
+Rwanda,East Africa,DHS,Rwanda DHS,2019-20,NISR / ICF,https://dhsprogram.com/publications/publication-FR370-DHS-Final-Reports.cfm,Registration required
+Rwanda,East Africa,HIES,Integrated Household Living Conditions Survey (EICV 2),2005-06,NISR,https://statistics.gov.rw/data-sources/surveys/EICV,Application required
+Rwanda,East Africa,HIES,Integrated Household Living Conditions Survey (EICV 3),2010-11,NISR,https://catalog.ihsn.org/index.php/catalog/3142,Application required
+Rwanda,East Africa,HIES,Integrated Household Living Conditions Survey (EICV 4),2013-14,NISR,https://catalog.ihsn.org/index.php/catalog/5975,Application required
+Rwanda,East Africa,HIES,Integrated Household Living Conditions Survey (EICV 5),2016-17,NISR,https://www.statistics.gov.rw/data-sources/surveys/EICV,Application required
+Rwanda,East Africa,HIES,Integrated Household Living Conditions Survey (EICV 6),2019-20,NISR,https://www.statistics.gov.rw/data-sources/surveys/EICV,Application required
+Rwanda,East Africa,HIES,Integrated Household Living Conditions Survey (EICV 7),2023-24,NISR,https://www.statistics.gov.rw/data-sources/surveys/EICV,Application required
+Rwanda,East Africa,Food Security/Nutrition,CFSVA and Nutrition Survey,2006,NISR / WFP / UNICEF,https://statistics.gov.rw/data-sources/surveys/CFSVA,Report public
+Rwanda,East Africa,Food Security/Nutrition,CFSVA and Nutrition Survey,2009,NISR / WFP / UNICEF,https://reliefweb.int/report/rwanda/rwanda-comprehensive-food-security-and-vulnerability-analysis-and-nutrition-survey,Report public
+Rwanda,East Africa,Food Security/Nutrition,CFSVA and Nutrition Survey,2012,NISR / WFP / UNICEF,http://catalog.ihsn.org/index.php/catalog/4149,Microdata by application
+Rwanda,East Africa,Food Security/Nutrition,CFSVA and Nutrition Survey,2015,NISR / WFP / UNICEF,https://statistics.gov.rw/data-sources/surveys/CFSVA,Report public
+Rwanda,East Africa,Food Security/Nutrition,CFSVA,2018,NISR / WFP,https://www.statistics.gov.rw/sites/default/files/documents/2025-01/CFSVA_2018_.pdf,Report public
+Rwanda,East Africa,Food Security/Nutrition,CFSVA,2021,NISR / WFP,https://microdata.statistics.gov.rw/index.php/catalog/106/study-description,Microdata by application
+Rwanda,East Africa,Food Security/Nutrition,CFSVA,2022,NISR / WFP,https://www.statistics.gov.rw/data-sources/surveys/CFSVA,Report public
+Rwanda,East Africa,Food Security/Nutrition,CFSVA,2024,NISR / WFP,http://www.statistics.gov.rw/data-sources/surveys/CFSVA,Report public
+Rwanda,East Africa,Agriculture,Seasonal Agricultural Survey (SAS),Annual since 2012,NISR / MINAGRI,https://statistics.gov.rw/data-sources/surveys/Seasonal-Agricultural-Survey,Reports public
+Rwanda,East Africa,FTF ZOI,FTF Rwanda ZOI Baseline,2012-13,USAID,https://catalog.data.gov/dataset/feed-the-future-rwanda-baseline-household-survey,Public download
+Rwanda,East Africa,FTF ZOI,FTF Rwanda ZOI Interim,2015,USAID,https://data.usaid.gov/Agriculture/Feed-the-Future-Rwanda-Interim-Survey-in-the-Zone-/dp59-4kja,Public download
+Rwanda,East Africa,FTF ZOI,FTF Rwanda ZOI Endline (Phase 1),2018-19,USAID,https://www.feedthefuture.gov/,Report public
+Tanzania,East Africa,DHS,Tanzania DHS,2004-05,NBS / ICF,https://dhsprogram.com/pubs/pdf/FR173/FR173-TZ04-05.pdf,Registration required
+Tanzania,East Africa,DHS,Tanzania HIV/AIDS and Malaria Indicator Survey,2007-08,NBS / ICF,https://dhsprogram.com/,Registration required
+Tanzania,East Africa,DHS,Tanzania DHS,2010,NBS / ICF,https://dhsprogram.com/,Registration required
+Tanzania,East Africa,DHS,Tanzania DHS-MIS,2015-16,NBS / ICF,https://dhsprogram.com/publications/publication-fr321-dhs-final-reports.cfm,Registration required
+Tanzania,East Africa,DHS,Tanzania DHS-MIS,2022,NBS / ICF,https://dhsprogram.com/publications/publication-FR382-DHS-Final-Reports.cfm,Registration required
+Tanzania,East Africa,LSMS-ISA,Tanzania National Panel Survey (NPS) Wave 1,2008-09,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/76,Public download
+Tanzania,East Africa,LSMS-ISA,Tanzania National Panel Survey (NPS) Wave 2,2010-11,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/1050,Public download
+Tanzania,East Africa,LSMS-ISA,Tanzania National Panel Survey (NPS) Wave 3,2012-13,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/lsms,Public download
+Tanzania,East Africa,LSMS-ISA,Tanzania National Panel Survey (NPS) Wave 4,2014-15,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/2862,Public download
+Tanzania,East Africa,LSMS-ISA,Tanzania National Panel Survey (NPS) Wave 5,2020-21,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/5639,Public download
+Tanzania,East Africa,HIES,Tanzania Household Budget Survey (HBS),2007,NBS,https://microdata.nbs.go.tz/index.php/catalog/17,Application required
+Tanzania,East Africa,HIES,Tanzania Household Budget Survey (HBS),2011-12,NBS,https://microdata.nbs.go.tz/index.php/catalog/18,Application required
+Tanzania,East Africa,HIES,Tanzania Household Budget Survey (HBS),2017-18,NBS,https://microdata.nbs.go.tz/index.php/catalog/30,Application required
+Tanzania,East Africa,HIES,Tanzania Integrated Household Budget Survey (IHBS),2024-25,NBS,https://www.nbs.go.tz/statistics/topic/household-budget-survey-hbs,In progress
+Tanzania,East Africa,Nutrition,Tanzania National Nutrition Survey (TNNS),2014,MoH / UNICEF / NBS,https://ghdx.healthdata.org/record/tanzania-national-nutrition-survey-2014,Report public
+Tanzania,East Africa,Nutrition,Tanzania National Nutrition Survey (TNNS) - SMART,2018,MoH / UNICEF / NBS,https://www.unicef.org/tanzania/reports/tanzania-national-nutrition-survey-2018,Report public
+Tanzania,East Africa,Food Security,IPC Acute Food Insecurity,Ongoing since 2011,IPC partners,https://www.ipcinfo.org/,Public
+Tanzania,East Africa,Agriculture,National Sample Census of Agriculture,2007-08,NBS,https://www.nbs.go.tz/,Report public
+Tanzania,East Africa,Agriculture,National Sample Census of Agriculture,2019-20,NBS,https://microdata.nbs.go.tz/index.php/catalog/31,Application required
+Tanzania,East Africa,Agriculture,Annual Agricultural Sample Survey (AASS),2022-23,NBS,https://microdata.nbs.go.tz/index.php/catalog/52,Application required
+Tanzania,East Africa,FTF ZOI,FTF Tanzania ZOI Baseline,2014-16,USAID,https://www.feedthefuture.gov/,Report public
+Tanzania,East Africa,FTF ZOI,FTF Tanzania ZOI Interim,2016,USAID / World Bank,https://microdata.worldbank.org/index.php/catalog/2863/,Public download
+Zambia,Southern Africa,DHS,Zambia DHS,2007,CSO / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-270.cfm,Registration required
+Zambia,Southern Africa,DHS,Zambia DHS,2013-14,CSO / ICF,https://dhsprogram.com/pubs/pdf/fr304/fr304.pdf,Registration required
+Zambia,Southern Africa,DHS,Zambia DHS,2018,ZamStats / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-542.cfm,Registration required
+Zambia,Southern Africa,DHS,Zambia DHS,2024,ZamStats / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-610.cfm,Registration required
+Zambia,Southern Africa,HIES,Living Conditions Monitoring Survey (LCMS IV),2004,CSO,https://catalog.ihsn.org/index.php/catalog/2593,Application required
+Zambia,Southern Africa,HIES,Living Conditions Monitoring Survey (LCMS V),2006,CSO,https://catalog.ihsn.org/index.php/catalog/2258,Application required
+Zambia,Southern Africa,HIES,Living Conditions Monitoring Survey (LCMS VI),2010,CSO,https://catalog.ihsn.org/index.php/catalog/2597,Application required
+Zambia,Southern Africa,HIES,Living Conditions Monitoring Survey (LCMS),2015,ZamStats,https://www.zamstats.gov.zm/,Report public
+Zambia,Southern Africa,HIES,Living Conditions Monitoring Survey (LCMS),2022,ZamStats,https://www.zamstats.gov.zm/wp-content/uploads/2024/07/2022-LCMS-Report-2022.pdf,Report public
+Zambia,Southern Africa,Nutrition,Food Consumption & Micronutrient Status Survey,2014,NFNC / TDRC / UNZA,https://nfnc.org.zm/,Report public
+Zambia,Southern Africa,Nutrition,Food Consumption & Micronutrient Status Survey,2020,NFNC / Intake,https://www.intake.org/zambia-dietary-data-visualizations,Report public
+Zambia,Southern Africa,Nutrition,Food Consumption & Micronutrient Status Survey,2023,NFNC / TDRC / UNZA / NISIR,https://nfnc.org.zm/,Report public
+Zambia,Southern Africa,Nutrition,SMART+ Nutrition Survey,2024,NFNC / UNICEF / Action Against Hunger,https://www.unicef.org/zambia/nutrition,Report public
+Zambia,Southern Africa,Food Security,IPC Acute Food Insecurity,2018-ongoing,ZVAC / IPC GSU / FAO / WFP,https://www.ipcinfo.org/ipc-country-analysis/en/?country=ZMB,Public
+Zambia,Southern Africa,Food Security,FEWS NET Monitoring,Ongoing,FEWS NET / USAID,https://fews.net/southern-africa/zambia,Public
+Zambia,Southern Africa,Agriculture,Crop Forecast Survey / Post-Harvest Survey,Annual,ZamStats,https://www.zamstats.gov.zm/agriculture/,Reports public
+Zambia,Southern Africa,Agriculture,Rural Agricultural Livelihoods Survey (RALS),2012,CSO / IAPRI / MSU,https://catalog.ihsn.org/index.php/catalog/7201,Application required
+Zambia,Southern Africa,Agriculture,Rural Agricultural Livelihoods Survey (RALS),2015,ZamStats / IAPRI / MSU,https://www.zamstats.gov.zm/agriculture/,Application required
+Zambia,Southern Africa,FTF ZOI,FTF Zambia ZOI Baseline,2012,USAID,https://data.usaid.gov/Agriculture/Feed-The-Future-Zambia-Baseline-Population-Based-S/4vjz-rqba,Public download
+Zambia,Southern Africa,FTF ZOI,FTF Zambia ZOI Interim,2015,USAID,https://www.feedthefuture.gov/resource/feed-the-future-zambia-zone-of-influence-interim-assessment-report/,Public download
+Zambia,Southern Africa,FTF ZOI,FTF Zambia ZOI Endline,2018,USAID,https://www.feedthefuture.gov/resource/feed-the-future-zambia-zone-of-influence-survey-endline-assessment/,Public download
+Mozambique,Southern Africa,DHS,Mozambique DHS (IDS),2003-04,INE / MISAU / ICF,https://ghdx.healthdata.org/record/mozambique-demographic-and-health-survey-2003-2004,Registration required
+Mozambique,Southern Africa,DHS,Mozambique DHS (IDS),2011,INE / MISAU / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-362.cfm,Registration required
+Mozambique,Southern Africa,DHS,Mozambique DHS (IDS),2022-23,INE / MISAU / ICF,https://dhsprogram.com/methodology/survey/survey-display-564.cfm,Registration required
+Mozambique,Southern Africa,MICS,Mozambique MICS3,2008-09,INE / UNICEF,https://catalog.ihsn.org/index.php/catalog/921,Public download
+Mozambique,Southern Africa,HIES,Inquerito sobre Orcamento Familiar (IOF),2008-09,INE,https://ghdx.healthdata.org/record/mozambique-household-budget-survey-2008-2009,Application to INE
+Mozambique,Southern Africa,HIES,Inquerito sobre Orcamento Familiar (IOF),2014-15,INE,https://webapps.ilo.org/surveyLib/index.php/catalog/6874,Application to INE
+Mozambique,Southern Africa,HIES,Inquerito sobre Orcamento Familiar (IOF),2019-20,INE,https://www.ine.gov.mz/,Application to INE
+Mozambique,Southern Africa,HIES,Inquerito sobre Orcamento Familiar (IOF),2022-23,INE,https://www.ine.gov.mz/,Application to INE
+Mozambique,Southern Africa,Food Security,CFSVA,2009,WFP / SETSAN,https://catalog.ihsn.org/index.php/catalog/4735,Report public
+Mozambique,Southern Africa,Food Security,CFSVA,2010,WFP / SETSAN,https://reliefweb.int/report/mozambique/republic-mozambique-comprehensive-food-security-and-vulnerability-analysis-2010,Report public
+Mozambique,Southern Africa,Food Security,IPC (all 3 scales),2013-ongoing,SETSAN / IPC GSU / FAO / WFP,https://www.ipcinfo.org/ipcinfo-website/where-what/southern-africa/mozambique/en/,Public
+Mozambique,Southern Africa,Agriculture,TIA/IAI Series (11+ rounds),2005-2020,INE / MINAG / MASA,https://igmozambique.wider.unu.edu/opinion/igm-datasets,Application required
+Mozambique,Southern Africa,FTF ZOI,FTF Mozambique ZOI Baseline,2013,USAID,https://data.usaid.gov/Agriculture/Feed-the-Future-Mozambique-Baseline-Population-Sur/8zqa-4rrz,Public download
+Mozambique,Southern Africa,FTF ZOI,FTF Mozambique ZOI Interim,2015,USAID,https://catalog.data.gov/dataset/feed-the-future-mozambique-zone-of-influence-interim-assessment-2015,Public download
+Malawi,Southern Africa,DHS,Malawi DHS,2004,NSO / ICF,https://www.dhsprogram.com/pubs/pdf/FR175/FR-175-MW04.pdf,Registration required
+Malawi,Southern Africa,DHS,Malawi DHS,2010,NSO / ICF,https://dhsprogram.com/pubs/pdf/fr247/fr247.pdf,Registration required
+Malawi,Southern Africa,DHS,Malawi DHS,2015-16,NSO / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-483.cfm,Registration required
+Malawi,Southern Africa,DHS,Malawi DHS,2024,NSO / ICF,https://www.dhsprogram.com/methodology/survey/survey-display-592.cfm,Registration required
+Malawi,Southern Africa,MICS,Malawi MICS3,2006,NSO / UNICEF,https://mics.unicef.org/surveys,Public download
+Malawi,Southern Africa,MICS,Malawi MICS6,2019-20,NSO / UNICEF,https://microdata.worldbank.org/index.php/catalog/4286,Public download
+Malawi,Southern Africa,LSMS-ISA,Second Integrated Household Survey (IHS2),2004-05,NSO / World Bank,https://microdata.worldbank.org/index.php/catalog/2307,Public download
+Malawi,Southern Africa,LSMS-ISA,Third Integrated Household Survey (IHS3),2010-11,NSO / World Bank,https://microdata.worldbank.org/index.php/catalog/1003,Public download
+Malawi,Southern Africa,LSMS-ISA,IHPS Panel,2013,NSO / World Bank,https://microdata.worldbank.org/index.php/catalog/2248,Public download
+Malawi,Southern Africa,LSMS-ISA,Fourth Integrated Household Survey (IHS4),2016-17,NSO / World Bank,https://microdata.worldbank.org/index.php/catalog/2936,Public download
+Malawi,Southern Africa,LSMS-ISA,Fifth Integrated Household Survey (IHS5),2019-20,NSO / World Bank,https://microdata.worldbank.org/index.php/catalog/3818,Public download
+Malawi,Southern Africa,Nutrition,Malawi Micronutrient Survey (MNS),2009,NSO / MoH,http://www.nsomalawi.mw/,Report public
+Malawi,Southern Africa,Nutrition,Malawi Micronutrient Survey (MNS),2015-16,NSO / DHS Program,https://dhsprogram.com/pubs/pdf/FR319/FR319.m.final.pdf,Registration required
+Malawi,Southern Africa,Nutrition,SMART Nutrition Surveys (8 rounds),2015-2024,GoM / UNICEF,https://www.unicef.org/malawi/media/12396/file/SMART%20ROUND%208%20REPORT%202024.pdf.pdf,Reports public
+Malawi,Southern Africa,Food Security,IPC Acute Food Insecurity,2009-ongoing,MVAC / IPC GSU / FAO / WFP,https://www.ipcinfo.org/ipcinfo-website/where-what/southern-africa/malawi/en/,Public
+Malawi,Southern Africa,Food Security,MVAC Annual Assessment,Annual,MVAC,https://mvac.gov.mw/,Reports public
+Malawi,Southern Africa,Agriculture,National Census of Agriculture & Livestock (NACAL),2006-07,NSO / MoAFS,https://catalog.ihsn.org/index.php/catalog/4578,Report public
+Malawi,Southern Africa,Agriculture,National Census of Agriculture & Livestock,2020,NSO / MoA,https://openknowledge.fao.org/items/73b12438-a11f-4543-8ef6-27f0b74249c9,Report public
+Malawi,Southern Africa,FTF ZOI,FTF Malawi ZOI Baseline,2012,USAID,https://data.usaid.gov/Agriculture/Feed-The-Future-Malawi-Baseline-Household-Survey/6gc3-3fwr,Public download
+Malawi,Southern Africa,FTF ZOI,FTF Malawi ZOI Interim,2015,USAID,https://data.usaid.gov/Agriculture/Feed-the-Future-Malawi-Interim-Survey-in-the-Zone-/c5qj-pmev,Public download
+Madagascar,Southern Africa,DHS,Madagascar EDSMD-III,2003-04,INSTAT / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-207.cfm,Registration required
+Madagascar,Southern Africa,DHS,Madagascar EDSMD-IV,2008-09,INSTAT / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-296.cfm,Registration required
+Madagascar,Southern Africa,DHS,Madagascar EDSMD-V,2021,INSTAT / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-560.cfm,Registration required
+Madagascar,Southern Africa,MICS,Madagascar MICS6,2018,INSTAT / UNICEF,https://microdata.worldbank.org/index.php/catalog/4163,Public download
+Madagascar,Southern Africa,HIES,Enquete Permanente aupres des Menages (EPM),2005,INSTAT,https://www.instat.mg/,Application to INSTAT
+Madagascar,Southern Africa,HIES,Enquete Permanente aupres des Menages (EPM),2010,INSTAT,https://www.instat.mg/,Application to INSTAT
+Madagascar,Southern Africa,HIES,Enquete Permanente aupres des Menages (EPM),2021-22,INSTAT,https://www.instat.mg/p/epm-enquete-permanente-aupres-des-menages-2021-2022,Application to INSTAT
+Madagascar,Southern Africa,Food Security,IPC Acute Food Insecurity,2016-ongoing,IPC GSU / FAO / WFP / FEWS NET,https://www.ipcinfo.org/ipc-country-analysis/en/?country=MDG,Public
+Madagascar,Southern Africa,Agriculture,Rural Observatory Surveys (panel),1995-2015,INSTAT / IRD / DIAL,https://www.nature.com/articles/s41597-024-03879-9,Public download (2024 release)
+Madagascar,Southern Africa,Agriculture,Recensement de l'Agriculture,2004-05,INSTAT / MAEP / FAO,https://www.fao.org/,Report public
+Madagascar,Southern Africa,FTF ZOI,USAID/Madagascar TSIRO Baseline Survey,2023,USAID,https://pdf.usaid.gov/pdf_docs/PA00Z66G.pdf,Report public
+Liberia,West Africa,DHS,Liberia DHS,2007,LISGIS / MoHSW / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-271.cfm,Registration required
+Liberia,West Africa,DHS,Liberia DHS,2013,LISGIS / MoH / ICF,https://dhsprogram.com/pubs/pdf/FR291/FR291.pdf,Registration required
+Liberia,West Africa,DHS,Liberia DHS,2019-20,LISGIS / MoH / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-537.cfm,Registration required
+Liberia,West Africa,HIES,Liberia HIES,2014-15,LISGIS,https://microdata.worldbank.org/index.php/catalog/2563,Public download
+Liberia,West Africa,HIES,Liberia HIES,2016-17,LISGIS,https://microdata.worldbank.org/index.php/catalog/2986,Public download
+Liberia,West Africa,HIES,Liberia HIES,2025,LISGIS / World Bank,https://www.liberiasp.gov.lr/?p=1397,Forthcoming
+Liberia,West Africa,Food Security/Nutrition,CFSNS,2006,GoL / WFP / FAO / UNICEF,https://reliefweb.int/report/liberia/republic-liberia-comprehensive-food-security-and-nutrition-survey-cfsns-oct-06,Report public
+Liberia,West Africa,Food Security/Nutrition,CFSNS,2008,GoL / WFP / FAO,https://www.lisgis.gov.lr/,Report public
+Liberia,West Africa,Food Security/Nutrition,CFSNS,2010,GoL / WFP / FAO / UNICEF,https://reliefweb.int/report/liberia/state-food-and-nutrition-insecurity-liberia-comprehensive-food-security-and-nutrition,Report public
+Liberia,West Africa,Food Security/Nutrition,CFSNS,2018,GoL / WFP,https://lisgis.gov.lr/surveys.php?survey_id=33,Report public
+Liberia,West Africa,Food Security/Nutrition,CFSNS,2025,GoL / MoA / WFP,https://www.moa.gov.lr/,Forthcoming
+Liberia,West Africa,Agriculture,Liberia Agriculture Census (LAC-2024),2024,LISGIS / MoA / FAO,https://lisgis.gov.lr/censusreport/lAC_2024_Final_Household_Report_03_10_2025.pdf,Report public
+Liberia,West Africa,FTF ZOI,FTF Liberia ZOI Baseline,2012-13,USAID,https://data.usaid.gov/,Public download
+Liberia,West Africa,FTF ZOI,FTF Liberia ZOI Interim,2015,USAID,https://www.feedthefuture.gov/,Public download
+Liberia,West Africa,FTF ZOI,FTF Liberia ZOI Endline,2016,USAID,https://data.usaid.gov/,Public download
+Ghana,West Africa,DHS,Ghana DHS (GDHS),2008,GSS / GHS / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=14,Registration required
+Ghana,West Africa,DHS,Ghana DHS (GDHS),2014,GSS / GHS / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=14,Registration required
+Ghana,West Africa,DHS,Ghana DHS (GDHS),2022,GSS / GHS / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=14,Registration required
+Ghana,West Africa,MICS,Ghana MICS3,2006,GSS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Ghana,West Africa,MICS,Ghana MICS4,2011,GSS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Ghana,West Africa,MICS,Ghana MICS6,2017-18,GSS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Ghana,West Africa,HIES,Ghana Living Standards Survey Round 5 (GLSS 5),2005-06,GSS,https://microdata.statsghana.gov.gh/index.php/catalog/5,Public
+Ghana,West Africa,HIES,Ghana Living Standards Survey Round 6 (GLSS 6),2012-13,GSS,https://microdata.worldbank.org/index.php/catalog,Public
+Ghana,West Africa,HIES,Ghana Living Standards Survey Round 7 (GLSS 7),2016-17,GSS,https://microdata.statsghana.gov.gh/index.php/catalog/97,Public
+Ghana,West Africa,Nutrition,Ghana Micronutrient Survey,2017,GSS / GHS / UNICEF / GroundWork,https://www.unicef.org/ghana/reports/ghana-micro-nutrient-survey,Report public
+Ghana,West Africa,Food Security,CFSVA,2012,WFP / GSS / MoFA,https://docs.wfp.org/stellent/groups/public/documents/ena/wfp257009.pdf,Report public
+Ghana,West Africa,Food Security,CFSVA,2020,WFP / GSS / MoFA / FAO,https://ghana.un.org/sites/default/files/2022-03/WFP-0000137744.pdf,Report public
+Ghana,West Africa,Food Security,Cadre Harmonise (CH),Biannual ongoing,CILSS / FAO / WFP / FEWS NET,https://www.ipcinfo.org/ch/,Public
+Ghana,West Africa,Agriculture,Ghana Census of Agriculture (GCA),2017-18,GSS / MoFA / World Bank / FAO,https://statsbank.statsghana.gov.gh/,Public
+Ghana,West Africa,Agriculture,Ghana Agricultural Production Survey (GAPS),2011-2016,MoFA / IFPRI,https://gssp.ifpri.info/gaps/,Application required
+Ghana,West Africa,FTF ZOI,FTF Ghana ZOI Baseline,2012,USAID / METSS / KSU / GSS,https://data.usaid.gov/,Public download
+Ghana,West Africa,FTF ZOI,FTF Ghana ZOI Interim,2015,USAID / METSS,https://catalog.data.gov/dataset/feed-the-future-ghana-2015-interim-population-based-survey,Public download
+Ghana,West Africa,FTF ZOI,FTF Ghana ZOI Endline (Phase 1),2019,USAID,https://data.usaid.gov/,Public download
+Nigeria,West Africa,DHS,Nigeria DHS (NDHS),2008,NPC / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=30,Registration required
+Nigeria,West Africa,DHS,Nigeria DHS (NDHS),2013,NPC / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=30,Registration required
+Nigeria,West Africa,DHS,Nigeria DHS (NDHS),2018,NPC / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=30,Registration required
+Nigeria,West Africa,DHS,Nigeria DHS (NDHS),2023-24,NPC / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=30,Registration required
+Nigeria,West Africa,MICS,Nigeria MICS3,2007,NBS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Nigeria,West Africa,MICS,Nigeria MICS4,2011,NBS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Nigeria,West Africa,MICS,Nigeria MICS5,2016-17,NBS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Nigeria,West Africa,MICS,Nigeria MICS6,2021,NBS / UNICEF,https://mics.unicef.org/surveys,Registration required
+Nigeria,West Africa,MICS,Nigeria MICS Plus (phone-based),2023-24,NBS / UNICEF,https://mics.unicef.org/mics-plus/mics-plus-results/nigeria-2023-24-0,Application required
+Nigeria,West Africa,LSMS-ISA,Nigeria GHS-Panel Wave 1,2010-11,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/1002,Public download
+Nigeria,West Africa,LSMS-ISA,Nigeria GHS-Panel Wave 2,2012-13,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/1952,Public download
+Nigeria,West Africa,LSMS-ISA,Nigeria GHS-Panel Wave 3,2015-16,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/2734,Public download
+Nigeria,West Africa,LSMS-ISA,Nigeria GHS-Panel Wave 4,2018-19,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/3557,Public download
+Nigeria,West Africa,LSMS-ISA,Nigeria GHS-Panel Wave 5,2023-24,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/6410,Public download
+Nigeria,West Africa,HIES,Nigeria Living Standards Survey (NLSS),2018-19,NBS / World Bank,https://microdata.worldbank.org/index.php/catalog/3827,Public download
+Nigeria,West Africa,Nutrition,National Nutrition and Health Survey (NNHS) - SMART,2014,NBS / UNICEF,https://microdata.fao.org/index.php/catalog/911,Public (FAO catalog)
+Nigeria,West Africa,Nutrition,National Nutrition and Health Survey (NNHS) - SMART,2015,NBS / UNICEF,https://www.unicef.org/nigeria/reports/national-nutrition-and-health-survey-2015,Report public
+Nigeria,West Africa,Nutrition,National Nutrition and Health Survey (NNHS) - SMART,2018,NBS / UNICEF,https://www.unicef.org/nigeria/reports/national-nutrition-and-health-survey-nnhs-2018,Report public
+Nigeria,West Africa,Food Security,CFSVA,2013,WFP,https://www.wfp.org/,Report public
+Nigeria,West Africa,Food Security,Cadre Harmonise (CH),Biannual ongoing,CILSS / FAO / WFP / FEWS NET,https://www.ipcinfo.org/ch/,Public
+Nigeria,West Africa,Agriculture,National Agricultural Sample Census (NASC),2022,NBS / FAO / FMAFS / World Bank,https://microdata.nigerianstat.gov.ng/index.php/catalog/79,Public
+Nigeria,West Africa,Agriculture,National Agricultural Sample Survey (NASS),2023,NBS / FAO / FMAFS / World Bank,https://microdata.nigerianstat.gov.ng/index.php/catalog/173,Public
+Nigeria,West Africa,FTF ZOI,FTF Nigeria ZOI Surveys,Various,USAID,https://data.usaid.gov/,Check DDL
+Mali,West Africa,DHS,Mali DHS (EDSM-V),2006,CPS/MS / DNSI / ICF,https://dhsprogram.com/methodology/survey/survey-display-276.cfm,Registration required
+Mali,West Africa,DHS,Mali DHS (EDSM-VI),2012-13,CPS/MS / INSTAT / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-405.cfm,Registration required
+Mali,West Africa,DHS,Mali DHS (EDSM),2018,CPS/SS-DS-PF / INSTAT / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-517.cfm,Registration required
+Mali,West Africa,DHS,Mali DHS (EDSM-VII),2023-24,INSTAT / ICF,https://dhsprogram.com/methodology/survey/survey-display-613.cfm,Registration required
+Mali,West Africa,MICS,Mali MICS4 (MICS-ELIM),2009-10,INSTAT / UNICEF,https://mics.unicef.org/surveys,Registration required
+Mali,West Africa,MICS,Mali MICS5,2015,INSTAT / UNICEF,https://microdata.worldbank.org/index.php/catalog/3421,Registration required
+Mali,West Africa,LSMS-ISA,Enquete Agricole de Conjoncture Integree (EAC-I) Wave 1,2014-15,CPS/SDR / INSTAT / World Bank,https://microdata.worldbank.org/index.php/catalog/2583,Public download
+Mali,West Africa,LSMS-ISA,Enquete Agricole de Conjoncture Integree (EAC-I) Wave 2,2017-18,CPS/SDR / INSTAT / World Bank,https://microdata.worldbank.org/index.php/catalog/3409,Public download
+Mali,West Africa,HIES,EHCVM Round 1,2018-19,INSTAT / World Bank / WAEMU,https://microdata.worldbank.org/index.php/catalog/4295,Public download
+Mali,West Africa,HIES,EHCVM Round 2,2021-22,INSTAT / World Bank / WAEMU,https://microdata.worldbank.org/index.php/catalog/6275,Public download
+Mali,West Africa,Nutrition,Enquete Nationale Nutritionnelle SMART,Annual 2011-2024,INSTAT / DGSHP / UNICEF / WFP,https://www.instat-mali.org/,Reports public; microdata restricted
+Mali,West Africa,Food Security,Cadre Harmonise (CH),Biannual ongoing,CILSS / FAO / WFP / FEWS NET / SAP,https://www.ipcinfo.org/ch/,Public
+Mali,West Africa,Agriculture,Enquete Agricole de Conjoncture (EAC),Annual,INSTAT / DNA,https://www.instat-mali.org/,Varies
+Mali,West Africa,Agriculture,Recensement General de l'Agriculture (RGA),2004-05,INSTAT / CPS/SDR,https://catalog.ihsn.org/index.php/catalog/8328,Public (IHSN)
+Mali,West Africa,FTF ZOI,FTF Mali ZOI Baseline,2012-13,USAID,https://data.usaid.gov/,Check DDL
+Senegal,West Africa,DHS,Senegal DHS (EDS-IV),2005,ANSD / ICF,https://dhsprogram.com/methodology/survey/survey-display-233.cfm,Registration required
+Senegal,West Africa,DHS,Senegal DHS (EDS-V / EDS-MICS),2010-11,ANSD / ICF,https://dhsprogram.com/countries/Country-Main.cfm?ctry_id=57,Registration required
+Senegal,West Africa,DHS,Senegal Continuous DHS (EDS-Continue),2012-2019 (annual/biannual),ANSD / ICF,https://dhsprogram.com/data/available-datasets.cfm?ctryid=36,Registration required
+Senegal,West Africa,DHS,Senegal Continuous DHS (EDS-Continue),2023,ANSD / ICF,https://dhsprogram.com/methodology/survey/survey-display-611.cfm,Registration required
+Senegal,West Africa,MICS,Senegal MICS Urbaine Dakar (MICS5),2015-16,ANSD / UNICEF,https://microdata.worldbank.org/index.php/catalog/3485,Registration required
+Senegal,West Africa,HIES,EHCVM Round 1,2018-19,ANSD / World Bank / WAEMU,https://microdata.worldbank.org/index.php/catalog/4297,Public download
+Senegal,West Africa,HIES,EHCVM Round 2,2021-22,ANSD / World Bank / WAEMU,https://microdata.worldbank.org/index.php/catalog/6278,Public download
+Senegal,West Africa,Nutrition,SMART/ENSAN Nutrition Surveys,2011-2019 (multiple rounds),Ministry of Health / CLM / UNICEF / WFP / ANSD,https://anads.ansd.sn/,Restricted
+Senegal,West Africa,Food Security,Cadre Harmonise (CH),Biannual ongoing,CILSS / FAO / WFP / FEWS NET,https://www.ipcinfo.org/ch/,Public
+Senegal,West Africa,Agriculture,Enquete Agricole Annuelle (EAA / AGRISurvey),Annual since 2017,DAPSA / Ministry of Agriculture / FAO,https://anads.ansd.sn/index.php/catalog/290,Public (some years)
+Senegal,West Africa,FTF ZOI,FTF Senegal ZOI Baseline,2012-13,USAID / TANGO / CSE,https://catalog.data.gov/dataset/feed-the-future-senegal-zone-of-influence-baseline-population-based-survey-2013,Public download
+Niger,West Africa,DHS,Niger DHS-MICS (EDSN-MICS III),2006,INS / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-277.cfm,Registration required
+Niger,West Africa,DHS,Niger DHS-MICS (EDSN-MICS IV),2012,INS / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-407.cfm,Registration required
+Niger,West Africa,DHS,Niger DHS (SUPPRESSED),2017,INS / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-518.cfm,Data suppressed - quality issues
+Niger,West Africa,LSMS-ISA,ECVM/A Wave 1,2011,INS / World Bank,https://microdata.worldbank.org/index.php/catalog/2050,Public download
+Niger,West Africa,LSMS-ISA,ECVM/A Wave 2,2014,INS / World Bank,https://microdata.worldbank.org/index.php/catalog/2676,Public download
+Niger,West Africa,HIES,EHCVM Round 1,2018-19,INS / World Bank / WAEMU,https://microdata.worldbank.org/index.php/catalog/4296,Public download
+Niger,West Africa,HIES,EHCVM Round 2,2021-22,INS / World Bank / WAEMU,https://microdata.worldbank.org/index.php/catalog/6276,Public download
+Niger,West Africa,Nutrition,Enquete Nationale Nutritionnelle SMART,Annual 2006-2020+,INS / Ministry of Health / UNICEF,https://www.stat-niger.org/?page_id=1549,Reports public; microdata restricted
+Niger,West Africa,Food Security,Cadre Harmonise (CH),Biannual ongoing,CILSS / FAO / WFP / FEWS NET / SAP,https://www.ipcinfo.org/ch/,Public
+Niger,West Africa,Agriculture,Recensement General de l'Agriculture et du Cheptel (RGAC),2004-08,INS / EU / World Bank / FAO,https://microdata.fao.org/index.php/catalog/1587,Public (FAO)
+Niger,West Africa,Agriculture,AGRISurvey (50x2030 Initiative),Ongoing,INS / FAO,https://www.fao.org/in-action/agrisurvey/access-to-data/niger/en,Check FAO
+Niger,West Africa,FTF ZOI,FTF Niger ZOI Baseline,2012-13,USAID,https://data.usaid.gov/,Check DDL
+Nepal,South Asia,DHS,Nepal DHS (NDHS),2006,MoHP / New ERA / ICF,https://dhsprogram.com/methodology/survey/survey-display-268.cfm,Registration required
+Nepal,South Asia,DHS,Nepal DHS (NDHS),2011,MoHP / New ERA / ICF,https://dhsprogram.com/publications/publication-fr257-dhs-final-reports.cfm,Registration required
+Nepal,South Asia,DHS,Nepal DHS (NDHS),2016,MoHP / New ERA / ICF,https://www.dhsprogram.com/pubs/pdf/fr336/fr336.pdf,Registration required
+Nepal,South Asia,DHS,Nepal DHS (NDHS),2022,MoHP / New ERA / ICF,https://dhsprogram.com/publications/publication-FR379-DHS-Final-Reports.cfm,Registration required
+Nepal,South Asia,MICS,Nepal MICS Round 4,2010,CBS / UNICEF,https://mics.unicef.org/surveys,Application required
+Nepal,South Asia,MICS,Nepal MICS,2014,CBS / UNICEF,https://www.unicef.org/nepal/reports/multiple-indicator-cluster-survey-final-report-2014,Application required
+Nepal,South Asia,MICS,Nepal MICS Round 6,2019,CBS / UNICEF,https://www.unicef.org/nepal/reports/multiple-indicator-cluster-survey-final-report-2019,Application required
+Nepal,South Asia,MICS,Nepal MICS Round 7,2024-25,NSO / UNICEF,https://www.unicef.org/nepal/topics/multiple-indicator-cluster-survey,Forthcoming
+Nepal,South Asia,HIES,Nepal Living Standards Survey (NLSS-II),2003-04,CBS / World Bank,https://microdata.worldbank.org/index.php/catalog/74,Public download
+Nepal,South Asia,HIES,Nepal Living Standards Survey (NLSS-III),2010-11,CBS / World Bank,https://microdata.worldbank.org/index.php/catalog/1000,Public download
+Nepal,South Asia,HIES,Nepal Living Standards Survey (NLSS-IV),2022-23,NSO / World Bank,https://data.nsonepal.gov.np/,Public download
+Nepal,South Asia,Nutrition,Nepal National Micronutrient Status Survey (NNMSS),2016,MoH / UNICEF / USAID,https://www.unicef.org/nepal/reports/nepal-national-micronutrient-status-survey-report-2016,Report public
+Nepal,South Asia,Food Security,Nepal Food Security Monitoring System (NeKSAP),2009-present,MoAD / WFP,https://www.wfp.org/countries/nepal,Reports public
+Nepal,South Asia,Agriculture,National Census of Agriculture,2011-12,CBS,https://catalog.ihsn.org/index.php/catalog/3196,Application required
+Nepal,South Asia,Agriculture,National Sample Census of Agriculture (NSCA),2021-22,NSO,https://microdata.nsonepal.gov.np/index.php/catalog/134,Application required
+Nepal,South Asia,FTF ZOI,FTF Nepal ZOI Baseline,2012,USAID / New ERA,https://pdf.usaid.gov/pdf_docs/pa00k7pq.pdf,Report public
+Nepal,South Asia,FTF ZOI,FTF Nepal ZOI Interim,2015,USAID / New ERA,https://data.usaid.gov/Agriculture/Feed-the-Future-Nepal-Interim-Survey-in-the-Zone-o/jhrh-vbed,Public download
+Nepal,South Asia,FTF ZOI,FTF Nepal ZOI Endline,2019,USAID / New ERA,https://www.newera.com.np/report/the-feed-the-future-2019-nepal-zone-of-influence-zoi-endline-survey/,Report public; data on DDL
+Bangladesh,South Asia,DHS,Bangladesh DHS (BDHS),2007,NIPORT / Mitra / ICF,https://dhsprogram.com/,Registration required
+Bangladesh,South Asia,DHS,Bangladesh DHS (BDHS),2011,NIPORT / Mitra / ICF,https://dhsprogram.com/,Registration required
+Bangladesh,South Asia,DHS,Bangladesh DHS (BDHS),2014,NIPORT / Mitra / ICF,https://dhsprogram.com/,Registration required
+Bangladesh,South Asia,DHS,Bangladesh DHS (BDHS),2017-18,NIPORT / ICF,https://dhsprogram.com/publications/publication-FR344-DHS-Final-Reports.cfm,Registration required
+Bangladesh,South Asia,DHS,Bangladesh DHS (BDHS),2022,NIPORT / ICF,https://dhsprogram.com/publications/publication-fr386-dhs-final-reports.cfm,Registration required
+Bangladesh,South Asia,MICS,Bangladesh MICS,2006,BBS / UNICEF,https://mics.unicef.org/surveys,Application required
+Bangladesh,South Asia,MICS,Bangladesh MICS,2012-13,BBS / UNICEF,https://mics.unicef.org/surveys,Application required
+Bangladesh,South Asia,MICS,Bangladesh MICS Round 6,2019,BBS / UNICEF,https://microdata.worldbank.org/index.php/catalog/4147,Application required
+Bangladesh,South Asia,MICS,Bangladesh MICS Round 7,2024-25,BBS / UNICEF,https://www.unicef.org/bangladesh/,Forthcoming
+Bangladesh,South Asia,HIES,Household Income and Expenditure Survey (HIES),2005,BBS,https://catalog.ihsn.org/index.php/catalog/138,Application required
+Bangladesh,South Asia,HIES,Household Income and Expenditure Survey (HIES),2010,BBS / World Bank,https://catalog.ihsn.org/index.php/catalog/2257,Application required
+Bangladesh,South Asia,HIES,Household Income and Expenditure Survey (HIES),2016-17,BBS / World Bank,https://catalog.ihsn.org/index.php/catalog/7399,Application required
+Bangladesh,South Asia,HIES,Household Income and Expenditure Survey (HIES),2022,BBS,https://bbs.gov.bd/,Application required
+Bangladesh,South Asia,Nutrition,National Micronutrients Status Survey,2011-12,BBS / UNICEF / GAIN / icddr-b,https://www.gainhealth.org/,Report public
+Bangladesh,South Asia,Agriculture,Agricultural Census,2008,BBS,https://bbs.gov.bd/,Application required
+Bangladesh,South Asia,Agriculture,Agricultural Census,2019,BBS,https://microdata.fao.org/index.php/catalog/2821,Application required
+Bangladesh,South Asia,FTF ZOI,Bangladesh Integrated Household Survey (BIHS) Baseline,2011-12,IFPRI / USAID,https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/21266,Public download
+Bangladesh,South Asia,FTF ZOI,BIHS Round 2 (Midline),2015,IFPRI / USAID,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BXSYEL,Public download
+Bangladesh,South Asia,FTF ZOI,BIHS Round 3 (Endline),2018-19,IFPRI / USAID,https://www.ifpri.org/publication/bangladesh-integrated-household-survey-bihs-2018-2019,Public download
+Guatemala,Latin America,DHS,ENSMI / DHS,2008-09,INE / MSPAS / CDC,https://portal.siinsan.gob.gt/ensmi/,Report public
+Guatemala,Latin America,DHS,ENSMI / DHS,2014-15,INE / MSPAS / ICF,https://dhsprogram.com/methodology/survey/survey-display-440.cfm,Registration required
+Guatemala,Latin America,DHS,Guatemala Standard DHS,2022,INE / ICF,https://dhsprogram.com/methodology/survey/survey-display-565.cfm,Registration required
+Guatemala,Latin America,MICS,Guatemala MICS Round 7,2023-24,INE / UNICEF,https://mics.unicef.org/surveys,Forthcoming
+Guatemala,Latin America,HIES,ENCOVI (Encuesta Nacional de Condiciones de Vida),2006,INE / World Bank,https://ghdx.healthdata.org/,Application required
+Guatemala,Latin America,HIES,ENCOVI,2011,INE,https://www.ine.gob.gt/,Application required
+Guatemala,Latin America,HIES,ENCOVI,2014,INE / World Bank,https://microdata.worldbank.org/index.php/catalog/586,Application required
+Guatemala,Latin America,HIES,ENCOVI,2023,INE / World Bank,https://documents.worldbank.org/,Report public; microdata by application
+Guatemala,Latin America,Nutrition,ENMICRON (Encuesta Nacional de Micronutrientes),2009-10,Ministry of Health,https://micronutrientforum.org/,Report public
+Guatemala,Latin America,Nutrition,SIVESNU (Nutrition Surveillance System),2013-2019,INCAP / MSPAS,https://pmc.ncbi.nlm.nih.gov/articles/PMC9022727/,Reports through INCAP
+Guatemala,Latin America,Food Security,IPC Acute Food Insecurity,Ongoing since 2017,IPC / WFP / FAO / SESAN,https://www.ipcinfo.org/ipc-country-analysis/,Public
+Guatemala,Latin America,Agriculture,Encuesta Nacional Agropecuaria (ENA),Annual 2005-2014,INE,https://www.ine.gob.gt/encuesta-nacional-agropecuaria/,Reports public
+Guatemala,Latin America,FTF ZOI,FTF Guatemala ZOI Baseline (Western Highlands),2012-13,USAID / MEASURE Evaluation,https://www.measureevaluation.org/countries/guatemala.html,Report public
+Guatemala,Latin America,FTF ZOI,FTF Guatemala ZOI Interim,2015,USAID,https://www.feedthefuture.gov/country/guatemala/,Report/data via DDL
+Honduras,Latin America,DHS,ENDESA / DHS,2005-06,INE / ICF,https://dhsprogram.com/methodology/survey/survey-display-265.cfm,Registration required
+Honduras,Latin America,DHS,ENDESA / DHS,2011-12,INE / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-369.cfm,Registration required
+Honduras,Latin America,DHS/MICS,ENDESA/MICS (combined),2019,INE / UNICEF / SESAL,https://ine.gob.hn/endesa/,Report public; microdata by application
+Honduras,Latin America,HIES,Encuesta Permanente de Hogares (EPHPM),Annual 2005-2025,INE,https://ine.gob.hn/encuesta-de-hogares/,Public (SPSS from 2012+)
+Honduras,Latin America,Food Security,IPC Acute Food Insecurity,Ongoing,IPC / WFP / FAO,https://www.ipcinfo.org/ipc-country-analysis/,Public
+Honduras,Latin America,Agriculture,Encuesta Agricola Nacional (EAN),2007-08,INE,https://www.ine.gob.hn/,Report public
+Honduras,Latin America,Agriculture,Censo Agropecuario Nacional,2024-25,INE,https://ine.gob.hn/,Newly released
+Honduras,Latin America,FTF ZOI,FTF Honduras ZOI Baseline,2012,USAID,https://www.feedthefuture.gov/resource/honduras-feed-the-future-baseline-report/,Report public
+Honduras,Latin America,FTF ZOI,FTF Honduras ZOI Endline / Phase 2 Baseline,2017-19,USAID,https://data.usaid.gov/,Data via DDL
+DRC,Central Africa,DHS,DRC DHS,2007,INS / ICF,https://dhsprogram.com/methodology/survey/survey-display-239.cfm,Registration required
+DRC,Central Africa,DHS,DRC DHS,2013-14,INS / ICF,https://dhsprogram.com/what-we-do/survey/survey-display-421.cfm,Registration required
+DRC,Central Africa,DHS,DRC DHS,2023-24,INS / ICF,https://dhsprogram.com/publications/publication-pr156-preliminary-reports-key-indicators-reports.cfm,Key indicators published; full data forthcoming
+DRC,Central Africa,MICS,DRC MICS Round 4,2010,INS / UNICEF,https://www.unicef.org/drcongo/,Application required
+DRC,Central Africa,MICS,DRC MICS-Palu Round 6,2017-18,INS / UNICEF,https://microdata.worldbank.org/index.php/catalog/4151,Application required
+DRC,Central Africa,HIES,Enquete 1-2-3,2004-05,INS / AFRISTAT,https://ghdx.healthdata.org/,Application required
+DRC,Central Africa,HIES,Enquete 1-2-3 Phase 3,2012,INS / World Bank / AfDB,https://www.uantwerpen.be/en/projects/centre-des-grands-lacs-afrique/donnees-nationales-congo/enquete-123-2005-2012/,Application required
+DRC,Central Africa,HIES,Enquete sur les Conditions de Vie des Menages (ECVM),2024,INS / World Bank,https://microdata.worldbank.org/,Forthcoming
+DRC,Central Africa,Food Security,IPC Acute Food Insecurity,Ongoing (2+ per year),IPC / WFP / FAO / Government,https://www.ipcinfo.org/ipc-country-analysis/,Public
+DRC,Central Africa,Nutrition,SMART Nutrition Surveys (subnational/provincial),Ongoing multiple per year,PRONANUT / UNICEF / WFP,https://www.nutritioncluster.net/country/democratic-republic-congo-drc,Reports through Nutrition Cluster
+DRC,Central Africa,FTF ZOI,FTF DRC Surveys (SLR Activity Ituri),2022-present,USAID / IES-Congo,https://iescongo.com/,Limited availability
